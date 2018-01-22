@@ -56,4 +56,9 @@ img:hover{
     display: grid;
     grid-template-columns:2fr;
 }
+
+.thumbnail{
+    margin-bottom: 30px;
+}
+
 }
