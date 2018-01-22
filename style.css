@@ -54,7 +54,7 @@ img:hover{
 @media (max-width:500px) {
 .gallery{
     display: grid;
-    grid-template-columns:2fr;
+    grid-template-columns:1fr;
 }
 
 .thumbnail{
