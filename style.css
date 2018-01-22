@@ -54,7 +54,7 @@ img:hover{
 
 .gallery{
     display: grid;
-    grid-template-columns:2fr;
+    grid-template-columns:1fr;
     justify-content: center;
 }
 
