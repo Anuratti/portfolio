@@ -55,6 +55,20 @@ img:hover{
 .gallery{
     display: grid;
     grid-template-columns:1fr;
+    justify-content: center;
+}
+
+.thumbnail{
+    margin-bottom: 30px;
+}
+
+}
+
+@media (max-width:920px) {
+.gallery{
+    display: grid;
+    grid-template-columns:2fr;
+    justify-content: center;
 }
 
 .thumbnail{
